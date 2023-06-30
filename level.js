@@ -20,6 +20,7 @@ export const levelConfigurations = [
       { cards: 25, difficulty: 'hard', timeLimit: 140, powerUps: true}
     ]
   },
+  {
       theme: 'theme3',
     levels: [
       { cards: 8, difficulty: 'easy', timeLimit: 60, powerUps: true},
