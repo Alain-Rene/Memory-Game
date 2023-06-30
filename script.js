@@ -1,4 +1,4 @@
-//import { levelConfigurations } from './level.js';
+/*//import { levelConfigurations } from './level.js';
 let flippedCards = [];
 
 // Toggles the flipped state of the card
@@ -25,5 +25,5 @@ const cards = document.querySelectorAll('.card');
 //Event listener will detect the click interactions
 cards.forEach(card => {
   card.addEventListener('click', flipCard);
-});
+}); */
 
