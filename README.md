@@ -16,7 +16,7 @@ Memory Game is a web-based game where players need to flip and match pairs of ca
 
 To run the Memory Game locally on your machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/memory-game.git`
+1. Clone the repository: `git clone https://github.com/Alain-Rene/memory-game.git`
 2. Navigate to the project directory: `cd memory-game`
 3. Open the `index.html` file in your web browser.
 
